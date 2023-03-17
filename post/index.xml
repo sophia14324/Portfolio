@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sophia Mbataru</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Projects on Sophia Mbataru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Project 1: Conversational AI chatbot</title>
+      <link>http://localhost:1313/post/project-2/</link>
+      <pubDate>Fri, 03 Mar 2023 11:15:58 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/project-2/</guid>
+      <description>The chatbot about diabetes was developed using Natural Language Processing (NLP).
+Scraped over 1000 relevant information about diabetes such as symptoms, medications, and nutrition was web scraped from reliable sources.
+Used the RASA Framework to build the chatbot and train it using the scraped data.
+Implemented Natural Language Understanding (NLU) was to help the chatbot understand the user&amp;rsquo;s intent and respond appropriately.
+The chatbot can improve patient care, increase efficiency, and lead to cost savings for patients and healthcare providers.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Energy production prediction using Time series Models</title>
+      <link>http://localhost:1313/post/project-4/</link>
+      <pubDate>Thu, 09 Feb 2023 11:13:32 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/project-4/</guid>
+      <description>The project aimed to predict energy production using time series models, which are statistical models used to analyze data over time to make forecasts or predictions.
+Collected and analyzed energy production data over time, which was then cleaned and preprocessed to prepare it for modeling.
+Preprocessed the data by removing trends i.e., subtracting the rolling mean and decomposition. Autocorrelation analysis was also done to detect the patterns and check for randomness.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Machine Learning Prediction of the Titanic Disaster</title>
+      <link>http://localhost:1313/post/project-6/</link>
+      <pubDate>Mon, 09 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/project-6/</guid>
+      <description>Created a tool that predicted the survival of passengers based on various features such as age, gender, and ticket class using machine learning models.
+Cleaned and preprocessed data using methods such as, imputing missing values, encoding categorical features, and scaling numeric features.
+Engineered features from the data to model using logistic regression, decision trees, random forests, and support vector machines (SVMs) algorithms.
+Optimized the algorithms using GridSearchCV to reach best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Prediction of Student&#39;s Dropout and Academic Success</title>
+      <link>http://localhost:1313/post/project-1/</link>
+      <pubDate>Sat, 17 Dec 2022 11:25:05 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/project-1/</guid>
+      <description>Implemented Machine learning techniques such as Logistic Regression, Decision trees, Random forest,and K-nearest neighbors (KNN) were used to predict student dropout and academic success in a project.
+Preprocessed the data through encoding categorical variables, dropping irrelevant columns, and splitting into training and testing sets.
+Conducted Exploratory Data Analysis to determine the relationship between features and the target variable, and scaled the data using min-max scaling.
+Evaluated the model performance using accuracy, precision, and recall.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Prediction of Customer Churn of a Telecommunications Company </title>
+      <link>http://localhost:1313/post/project-3/</link>
+      <pubDate>Thu, 03 Nov 2022 11:14:48 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/project-3/</guid>
+      <description>Sourced and prepared data for analysis with data preparation done to ensure validity, accuracy, completeness, consistency, and uniformity.
+Performed feature selection and engineering i.e., label and one-hot encoding, SMOTE, normalization, and train-test splitting with a 0.25 test size and random state of 1.
+Employed modelling techniques such as ADA Boost, Random Forest, SVM, Lasso Regression, Naive Bayes, and Logistic Regression, with the Random Forest model performing best with a score of 92%.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Spam Classfication using NLP and Naive Baiyes</title>
+      <link>http://localhost:1313/post/project-5/</link>
+      <pubDate>Tue, 18 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>http://localhost:1313/post/project-5/</guid>
+      <description>Preprocessed the text data to extract relevant features, including word frequencies and document frequency.
+Implemented Naive Bayes and Natural Language Processing algorithms to classify the messages as spam or not spam based on these features.
+The model achieved high accuracy in identifying spam messages.
+The project is useful for email spam filtering and other text classification tasks.
+The project demonstrates the effectiveness of machine learning and NLP techniques in addressing real-world problems.</description>
+    </item>
+    
+  </channel>
+</rss>
